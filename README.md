@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Sonal Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/72491412/114658050-d430c100-9d0e-11eb-9b6f-5e69c77a8c68.gif">
+
 - 🔭 I’m currently working on [V_Work](https://github.com/SigmaByteX/V_Work.git)
 
 - 🌱 I’m currently learning **React, Cloud Computing**
