@@ -1,4 +1,5 @@
-![Shadir's GitHub Banner]C:\Users\sonal verma\Desktop\124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png
+<img src="https://user-images.githubusercontent.com/72491412/124944400-e75fde00-e02a-11eb-82b3-6b6d9af4c5c1.png" width="1000">
+
 
 <h1 align="center">Hi 👋, I'm Sonal Verma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
