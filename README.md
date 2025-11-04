@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I’m currently working on [SkillSync](https://github.com/SigmaByteX/SkillSync)
+- 🔭 I’m currently working on [SkillSync](https://github.com/SigmaByteX/SkillSync.git)
 
 - 🌱 I’m currently learning **React, Cloud Computing**
 
